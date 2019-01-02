@@ -8,6 +8,16 @@ Copy the content of the `android` folder into your Android project (into `the sr
 This includes your generated content as well as the mipmap-anydpi-v26 folder for
 [Adaptive icons](https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive).
 
+Update your `AndroidManifest.xml` `application` tag and add or update this two icon attributes:
+
+```
+    <application
+        ....
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        ....
+```
+
 ## iOS
 
 
