@@ -1,14 +1,13 @@
 # Sketch template to create Android and iOS app icons
 
-✅ Exports the 10 **"standard" Android App Icons** as **rectangle and round icon**
+✅ Exports the **"standard" Android App Icons** as **rectangle and round icon**
 
-✅ Exports the 10 **"new" Android O [Adaptive App Icon Set](https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive)** with its **separate background and foreground layer**
+✅ Exports the **"new" Android O [Adaptive App Icon Set](https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive)** with its **separate background and foreground layer**
 
-✅ Exports all 9 required App Icons for iOS (iPhone and iPad)
+✅ Exports all required App Icons for iOS (iPhone and iPad)
 
 ✅ And finally, exports marketing icons for the AppStore and PlayStore.
 
-<br/>
 <br/>
 
 ## Getting started
