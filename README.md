@@ -48,6 +48,10 @@ referes these icons (by their filename) already.
 
 ## Changelog
 
+### 1.1
+
+*   Add missing iOS Icons for the iPad.
+
 ### 1.0
 
 *   Initial version with support for Android Standard Icons,
